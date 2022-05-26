@@ -1,0 +1,2 @@
+# HookTest
+ams hook test
